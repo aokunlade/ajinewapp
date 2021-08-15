@@ -1,1 +1,1 @@
-md c:/test
+md c:\test
